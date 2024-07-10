@@ -7,8 +7,6 @@ Repositório de dados dedicado ao projeto de MVP em Engenharia de Dados da pós 
 
 
 # Autora
-Nome: Ana Paula Zampier Abreu Alvarenga 
-
-Contato: anapaulazampier@gmail.com 
-
-LinkedIn: [in/anapaulazampier](https://linkedin.com/in/anapaulazampier/) 
+- Nome: Ana Paula Zampier Abreu Alvarenga 
+- Contato: anapaulazampier@gmail.com 
+- LinkedIn: [in/anapaulazampier](https://linkedin.com/in/anapaulazampier/) 
