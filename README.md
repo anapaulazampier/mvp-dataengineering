@@ -1,4 +1,4 @@
-# mvp-dataengineering
+# Overview
 ### Estudo para oferta de produtos de energia para novos nichos de mercado
 
 Repositório de dados dedicado ao projeto de MVP em Engenharia de Dados da pós graduação em Data Science & Analytics da PUC RJ.
